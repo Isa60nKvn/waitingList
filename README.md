@@ -15,7 +15,7 @@ This project is a basic command-line application built with Java that demonstrat
 - Java
 - JDBC
 - MySQL
-- intellij Terminal
+- IntelliJ Terminal
 
 ---
 
@@ -35,17 +35,3 @@ CREATE TABLE users (
   name VARCHAR(100),
   studentID VARCHAR(50)
 );
-
-
-**## Sample Output**
-
-Name    : Alice
-StudentID: 20231234
-User inserted successfully.
----- Name & Waiting Number ----
-Wait Number: 1
-Name       : Alice
-StudentID  : 20231234
--------------------------------
-Add another name? (1 = yes, 0 = no):
-
