@@ -35,3 +35,17 @@ CREATE TABLE users (
   name VARCHAR(100),
   studentID VARCHAR(50)
 );
+
+---
+
+## 2. Output Example
+
+Name    : Alice
+StudentID: 20231234
+User inserted successfully.
+---- Name & Waiting Number ----
+Wait Number: 1
+Name       : Alice
+StudentID  : 20231234
+-------------------------------
+Add another name? (1 = yes, 0 = no):
